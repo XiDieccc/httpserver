@@ -1,2 +1,2 @@
 # webserver
-A lightweight web server implemented in C++ on Linux systems
+A highly concurrency http server on C++ under Linux systems
