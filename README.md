@@ -14,7 +14,7 @@
 
 - 该框架图为使用线程池的 **单Reactor多线程** 模式
 
-<img src="./assets/httpserver框架.png" style="zoom:73%;" />
+<img src="./assets/httpserver_framework.png" style="zoom:73%;" />
 
 **Reactor模型**
 
@@ -68,7 +68,7 @@
 
 - `socket()`、`bind()`、`listen()`、`accept()`、`read()/recv()`、`write()/send()`
 
-  <img src="./assets/socket流程.png" style="zoom:67%;" />
+  <img src="./assets/socket.png" style="zoom:67%;" />
 
   
 
