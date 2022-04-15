@@ -14,7 +14,7 @@
 
 - 该框架图为使用线程池的 **单Reactor多线程** 模式
 
-<img src="./assets/httpserver_framework.png" style="zoom:73%;" />
+<img src="https://img-blog.csdnimg.cn/a94e817159754b7999b08339edcf0640.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAWGlEaWVjY2M=,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center" style="zoom:73%;" />
 
 **Reactor模型**
 
